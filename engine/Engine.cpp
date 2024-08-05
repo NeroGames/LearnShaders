@@ -1,9 +1,11 @@
 ////////////////////////////////////////////////////////////
-// Learn OpenGL
-// Copyright (c) 2020 sk-landry
+// Learn OpenGL Shaders (GLSL)
+// Copyright (c) 2024 sk-landry
 ////////////////////////////////////////////////////////////
 ///////////////////////////HEADERS//////////////////////////
+//Engine
 #include "Engine.h"
+//SFML
 #include <SFML/System/Time.hpp>
 ////////////////////////////////////////////////////////////
 Engine::Engine(const unsigned int& windowWidth, const unsigned int& windowHeight):
@@ -106,5 +108,6 @@ void Engine::initOpenGL()
         m_OpenGlAvailable = false;
     }
 
-    glClearColor(0.2f, 0.3f, 0.3f, 1.0f);
+    // clear black
+    glClearColor(0.f, 0.f, 0.f, 1.0f);
 }
