@@ -1,0 +1,49 @@
+2024-08-05 08:35:36,630 INFO [default] hello world
+2024-08-05 08:35:36,884 INFO [default] Nero Game Engine v1.0.0 Copyright (c) 2016-2022 sk-landry
+2024-08-05 08:35:36,884 INFO [default] nero development engine starting
+2024-08-05 08:35:36,884 INFO [default] loading engine configuration
+2024-08-05 08:35:36,890 INFO [default] setting up sfml render window
+2024-08-05 08:35:37,060 INFO [default] building startup screen
+2024-08-05 08:35:37,065 INFO [default] starting background task
+2024-08-05 08:35:37,080 INFO [default] building resource manager
+2024-08-05 08:35:37,089 INFO [default] loading font resources
+2024-08-05 08:35:37,089 INFO [default] Resource path : resource/font
+2024-08-05 08:35:37,089 INFO [default] loaded : Sansation
+2024-08-05 08:35:37,089 INFO [default] loading sound resources
+2024-08-05 08:35:37,089 INFO [default] resource path : resource/sound
+2024-08-05 08:35:37,089 INFO [default] loading music resources
+2024-08-05 08:35:37,089 INFO [default] Resource path : resource/music
+2024-08-05 08:35:37,089 INFO [default] loading texture resources
+2024-08-05 08:35:37,089 INFO [default] Resource path : resource/texture
+2024-08-05 08:35:37,089 INFO [default] loading animation resources
+2024-08-05 08:35:37,089 INFO [default] Resource path : resource/animation
+2024-08-05 08:35:37,089 INFO [default] building engine-ui
+2024-08-05 08:35:37,185 INFO [default] providing engine setting to engine-ui
+2024-08-05 08:35:37,190 INFO [default] providing resource manager to engine-ui
+2024-08-05 08:35:37,190 INFO [default] building engine interface
+2024-08-05 08:35:39,880 INFO [default] building camera
+2024-08-05 08:35:39,880 INFO [default] building scene manager
+2024-08-05 08:35:39,883 INFO [default] adjusting background task time
+2024-08-05 08:35:41,898 INFO [default] adding the default scene
+2024-08-05 08:35:41,898 INFO [default] registering all scenes
+2024-08-05 08:35:41,898 INFO [default] adding scene : new scene
+2024-08-05 08:35:42,000 INFO [default] failed to find save file : Nero/new scene/new scene.json
+2024-08-05 08:35:42,000 INFO [default] creating empty scene
+2024-08-05 08:35:42,000 INFO [default] creating save file
+2024-08-05 08:35:42,000 INFO [default] scene registration complete
+2024-08-05 08:35:42,000 INFO [default] setting up the engine-ui
+2024-08-05 08:35:42,000 INFO [default] update engine-ui log
+2024-08-05 08:35:42,000 INFO [default] Nero Game Engine --- Log file 5/8/2024 8:35:42
+
+2024-08-05 08:35:42,000 INFO [default] Restoring last Scene
+2024-08-05 08:35:42,000 INFO [default] ## -- current Scene [new scene] -- ## 
+
+2024-08-05 08:35:42,010 INFO [default] Background task completed
+2024-08-05 08:35:42,010 INFO [default] Nero Development Engine started successfully
+2024-08-05 08:35:48,310 INFO [default] closing the Engine
+2024-08-05 08:35:48,310 INFO [default] stopping music
+2024-08-05 08:35:48,310 INFO [default] saving Engine Settings
+2024-08-05 08:35:48,310 INFO [default] saving all Scenes
+2024-08-05 08:35:48,320 INFO [default] 
+ ## -- Engine closed at 5/8/2024 8:35:48-- ###
+
